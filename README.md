@@ -1,1 +1,1 @@
-# ResourceAllocationMOEA
+This repository contains the data from the results obtained in the study. The data is organized in the results folder, where each file reflects the metrics and analyses generated in different stages of experimentation. Additionally, a Jupyter Notebook is included to complement the main document, providing graphical visualizations and further analyses for better interpretation of the results.
