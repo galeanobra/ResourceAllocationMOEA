@@ -1,6 +1,6 @@
-# Optimizing Load-Balanced Resource Allocation in Next-Generation Mobile Networks: A Parallelized Multi-Objective Approach
+# Optimizing load-balanced resource allocation in next-generation mobile networks: A parallelized multi-objective approach
 
-This repository contains the data and scripts associated with the study *Optimizing Load-Balanced Resource Allocation in Next-Generation Mobile Networks: A Parallelized Multi-Objective Approach*, published in the journal *Ad Hoc Networks (https://doi.org/10.1016/j.adhoc.2025.103912). The study proposes a novel parallelized multi-objective evolutionary approach to optimize resource allocation in next-generation mobile networks.
+This repository contains the data and scripts associated with the study *Optimizing Load-Balanced resource allocation in next-generation mobile networks: A parallelized multi-objective approach*, published in the journal *Ad Hoc Networks (https://doi.org/10.1016/j.adhoc.2025.103912). The study proposes a novel parallelized multi-objective evolutionary approach to optimize resource allocation in next-generation mobile networks.
 
 ## Repository Structure
 
@@ -52,6 +52,7 @@ The contents of this repository, including code, data, and results, are provided
 ---
 
 For any questions or further clarifications, please contact the authors.
+
 
 
 
