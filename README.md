@@ -40,6 +40,7 @@ If you use this repository in your work, please cite the original article (this 
   volume={177},
   pages={103912},
   year={2025},
+  doi={10.1016/j.adhoc.2025.103912},
   publisher={Elsevier}
 }
 ```
@@ -51,6 +52,7 @@ The contents of this repository, including code, data, and results, are provided
 ---
 
 For any questions or further clarifications, please contact the authors.
+
 
 
 
