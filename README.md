@@ -1,6 +1,6 @@
 # Optimizing Load-Balanced Resource Allocation in Next-Generation Mobile Networks: A Parallelized Multi-Objective Approach
 
-This repository contains the data and scripts associated with the study *Optimizing Load-Balanced Resource Allocation in Next-Generation Mobile Networks: A Parallelized Multi-Objective Approach*. The study proposes a novel parallelized multi-objective evolutionary approach to optimize resource allocation in next-generation mobile networks.
+This repository contains the data and scripts associated with the study *Optimizing Load-Balanced Resource Allocation in Next-Generation Mobile Networks: A Parallelized Multi-Objective Approach*, published in the journal *Ad Hoc Networks (https://doi.org/10.1016/j.adhoc.2025.103912). The study proposes a novel parallelized multi-objective evolutionary approach to optimize resource allocation in next-generation mobile networks.
 
 ## Repository Structure
 
@@ -34,13 +34,13 @@ If you use this repository in your work, please cite the original article (this 
 
 ```
 @article{calle2025optimizing,
-  title = {Optimizing Load-Balanced Resource Allocation in Next-Generation Mobile Networks: A Parallelized Multi-Objective Approach},
-  author = {Calle-Cancho, Jes{\'u}s and Galeano-Brajones, Jes{\'u}s and Cort{\'e}s-Polo, David and Carmona-Murillo, Javier and Luna, Francisco},
-  journal = {Preprint},
-  year = {2025},
-  volume = {XX},
-  pages = {XX--XX},
-  doi = {XX.XXXX/j.xx.xxxx},
+  title={Optimizing load-balanced resource allocation in next-generation mobile networks: A parallelized multi-objective approach},
+  author={Calle-Cancho, Jes{\'u}s and Galeano-Brajones, Jes{\'u}s and Cort{\'e}s-Polo, David and Carmona-Murillo, Javier and Luna-Valero, Francisco},
+  journal={Ad Hoc Networks},
+  volume={177},
+  pages={103912},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
@@ -51,6 +51,7 @@ The contents of this repository, including code, data, and results, are provided
 ---
 
 For any questions or further clarifications, please contact the authors.
+
 
 
 
